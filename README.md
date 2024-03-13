@@ -6,7 +6,8 @@ This project entails an in-depth analysis of Superstore sales data using Excel p
 
 ## Dashboard Preview
 
-![Dashboard Preview](https://i.ibb.co/sPR2vmp/your-image.png)
+![Dashboard Preview](https://i.ibb.co/sPR2vmp/superstore-dashboard.png)
+
 
 
 
